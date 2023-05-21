@@ -1,7 +1,8 @@
 # Hover Notes
-    This Notes provides Overview to all laguages an their fundamentals.
-**Table of Contents**
+This Notes provides Overview to all laguages an their fundamentals.
+## Table of Contents
 - [Hover Notes](#hover-notes)
+  - [Table of Contents](#table-of-contents)
   - [Dunders and Boiler Plates](#dunders-and-boiler-plates)
     - [python](#python)
     - [Java](#java)
@@ -44,6 +45,7 @@
     - [C++](#c-15)
 
 ## Dunders and Boiler Plates
+[Table of Contents](#table-of-contents)
 ### python
 ```
 def main():
@@ -80,6 +82,7 @@ int main() {
 }
 ```
 ## Data types and variable declarations
+[Table of Contents](#table-of-contents)
 ### python
 ```
 #no need variables are automatically defined upon creation
@@ -107,6 +110,7 @@ string myText = "Hello";
 bool myBoolean = true;
 ```
 ## Logic and Operation
+[Table of Contents](#table-of-contents)
 ### python
 
 | **Operator**      | **Name**           |
@@ -164,6 +168,7 @@ bool myBoolean = true;
 ### C++
 >Same as Java
 ## Arrays
+[Table of Contents](#table-of-contents)
 ### Python
 `MyArray = ["Item 1", "Item 2", "Item 3"]`
 *index array* `myArray[n]`
@@ -178,6 +183,7 @@ bool myBoolean = true;
 ### C++
 >Same as Java
 ## If Else Conditionals
+[Table of Contents](#table-of-contents)
 ### Python
 ```
 if __ Comparator __ :
@@ -204,6 +210,7 @@ else {
 ### C++
 >Same as Java
 ## for and while Loops
+[Table of Contents](#table-of-contents)
 ### Python
 use range
 ```
@@ -260,6 +267,7 @@ while (i < 5);
 ### C++
 >Same as Java
 ## Functions or Methods
+[Table of Contents](#table-of-contents)
 ### Python
 ```
 def my_Func(): 
@@ -281,6 +289,7 @@ void my_Func() {
 > Same as C
 
 ## User Inputs
+[Table of Contents](#table-of-contents)
 ### Python
 `myVariable = input()`
 ### Java
